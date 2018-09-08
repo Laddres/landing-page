@@ -56,13 +56,15 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 300;
-    color: #633991;
+    /* color: #633991; */
+    color: #25647C;
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
 
 h3 {
-    color: #633991;
+    /* color: #633991; */
+    color: #25647C;
     font-size: 33px;
     font-weight: 500;
 }
@@ -70,13 +72,15 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    /* color: #633991; */
+    color: #25647C;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    /* color: #633991; */
+    color: #25647C;
     margin-bottom: 0.7rem;
 }
 
@@ -152,7 +156,8 @@ p.lead {
 }
 
 .light-bg {
-    background-color: #faf6fb;
+    /* background-color: #faf6fb; */
+    background-color: #FAFBFC;
 }
 
 .section {
@@ -165,7 +170,8 @@ p.lead {
 }
 
 .section-title small {
-    color: #998a9b;
+    /* color: #998a9b; */
+    color: #79A2AF;
 }
 
 @media (max-width:767px) {
@@ -295,10 +301,14 @@ header {
 ----------------------*/
 
 .gradient-fill:before {
-    color: #fc73b4;
+    /* color: #fc73b4;
     background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
     background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
+    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%); */
+    color: #25647C;
+    background: -moz-linear-gradient(top, #4CA04D 0%, #25647C 100%);
+    background: -webkit-linear-gradient(top, #4CA04D 0%, #25647C 100%);
+    background: linear-gradient(to bottom, #4CA04D 0%, #25647C 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -324,10 +334,14 @@ header {
     content: "";
     position: absolute;
     width: 3px;
-    color: #fc73b4;
+    /* color: #fc73b4;
     background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
     background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
-    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
+    background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%); */
+    color: #25647C;
+    background: -moz-linear-gradient(top, #4CA04D 0%, #25647C 100%);
+    background: -webkit-linear-gradient(top, #4CA04D 0%, #25647C 100%);
+    background: linear-gradient(to bottom, #4CA04D 0%, #25647C 100%);
     top: 0;
     bottom: 0;
     left: 0;
