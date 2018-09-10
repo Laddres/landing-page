@@ -37,7 +37,8 @@ body {
 }
 
 a {
-    color: #e38cb7;
+    /* color: #e38cb7; */
+    color: #25647C;
 }
 
 a:hover,
@@ -654,13 +655,15 @@ header {
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    /* color: #f4c9e2; */
+    color: #79A2AF;
     transition: all 0.3s ease;
 }
 
 .social-icons a:hover {
     text-decoration: none;
-    color: #e38cb7;
+    /* color: #e38cb7; */
+    color: #25647C;
 }
 
 @media (max-width:991px) {
