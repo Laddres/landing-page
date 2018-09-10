@@ -514,7 +514,7 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot span {
-    background: #e7d9eb;
+    background: #BBD0D7;
     width: 35px;
     height: 8px;
     border-radius: 10px;
@@ -522,11 +522,11 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #ff487e;
+    background: #25647C;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-    background: #ff487e;
+    background: #25647C;
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
 }
 
