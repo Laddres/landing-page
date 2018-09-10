@@ -90,12 +90,14 @@ p {
 }
 
 p.lead {
-    color: #e38cb7;
+    /* color: #e38cb7; */
+    color: #25647C;
     margin-bottom: 2rem;
 }
 
 .text-primary {
-    color: #e38cb7 !important;
+    /* color: #e38cb7 !important; */
+    color: #25647C !important;
 }
 
 .light-font {
@@ -144,7 +146,8 @@ p.lead {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
     font-size: 14px;
     font-weight: 500;
-    color: #633991;
+    /* color: #633991; */
+    color: #014E68;
     margin: 0.5rem;
     padding: 0.7rem 1.6rem;
     line-height: 1.8;
@@ -627,7 +630,8 @@ header {
 .call-to-action .tagline {
     font-size: 16px;
     font-weight: 300;
-    color: #ffb8f6;
+    /* color: #ffb8f6; */
+    color: #FFF;
     max-width: 650px;
     margin: 0 auto;
 }
