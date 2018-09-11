@@ -32,7 +32,8 @@ Copyright © All rights Reserved
 ----------------------*/
 
 body {
-    font-family: 'Rubik', sans-serif;
+    /* font-family: 'Rubik', sans-serif; */
+    font-family: 'Roboto', sans-serif;
     position: relative;
 }
 
@@ -191,6 +192,11 @@ p.lead {
 /* NAVBAR
 ----------------------*/
 
+img.logo {
+  height: 40px;
+  width: 103px;
+}
+
 .nav-menu {
     padding: 1rem 0;
     transition: all 0.3s ease;
@@ -254,6 +260,10 @@ header {
     padding: 100px 0 0;
     text-align: center;
     color: #FFF;
+}
+
+header h1 {
+  font-weight: 500;
 }
 
 .bg-gradient {
