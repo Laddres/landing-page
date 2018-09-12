@@ -292,7 +292,7 @@ header h1 {
     overflow: hidden;
 }
 .img-holder img {
-    max-width: 80%;
+    max-width: 35%;
 }
 
 @media (max-width:1200px) {
@@ -307,6 +307,9 @@ header h1 {
     }
     .img-holder {
         padding-bottom: 100%;
+    }
+    .img-holder img {
+        max-width: 80%;
     }
 }
 
