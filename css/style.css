@@ -317,6 +317,10 @@ header h1 {
 /* FEATURES
 ----------------------*/
 
+.in-progress {
+  opacity: .3;
+}
+
 .gradient-fill:before {
     /* color: #fc73b4;
     background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
